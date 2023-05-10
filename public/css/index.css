@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(135deg, #797979 25%, #697979 25%, #597979 50%, #303030 50%, #403030 75%, #4e4e4e 75%, #3d3d3d);
+    background-size: 30px 30px;
+    background-position: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
